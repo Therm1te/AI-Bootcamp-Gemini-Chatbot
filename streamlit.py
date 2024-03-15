@@ -77,7 +77,7 @@ if "chat" not in st.session_state:
     st.session_state.chat.send_message(PROMPT)
 
 # Display Form Title
-st.title("Chat with Google Gemini-1.0-Pro!")
+st.title("✈️ Flight Finder AI : Your Personal Travel Assistant 🤖")
 
 # Display chat messages from history above current input box
 for message in st.session_state.chat.history[1:]:
