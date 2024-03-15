@@ -1,1 +1,0 @@
-pip install google-generativeai streamlit beautifulsoup4 python-dotenv
