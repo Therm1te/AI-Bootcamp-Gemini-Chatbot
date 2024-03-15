@@ -151,3 +151,14 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 ~$AI_Chatbots_Presentation.pptx
+~$riables.docx
+test.json
+variables.docx
+FlightScraper/itascraper/itascrape.py
+FlightScraper/flight_scraper/
+FlightScraper/462655-cc9c9cc9ba28bc809dc388fb29a6b4eacb9ad68d.zip
+flightcaller_serpapi.py
+flightcaller_googlescraper.py
+flightcaller_amadeusapi.py
+flight.json
+currencyconverterapi.py
